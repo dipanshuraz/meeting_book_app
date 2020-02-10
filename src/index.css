@@ -1,0 +1,10 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+link {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+  font-size: 1.5rem;
+}

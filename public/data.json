@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "floor": 2,
+    "name": "Twitternation",
+    "capacity": 59,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 3988
+  },
+  {
+    "id": 2,
+    "floor": 4,
+    "name": "Podcat",
+    "capacity": 83,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 2034
+  },
+  {
+    "id": 3,
+    "floor": 5,
+    "name": "Youtags",
+    "capacity": 95,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 3956
+  },
+  {
+    "id": 4,
+    "floor": 1,
+    "name": "Twitternation",
+    "capacity": 67,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 4624
+  },
+  {
+    "id": 5,
+    "floor": 2,
+    "name": "Tagtune",
+    "capacity": 76,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 4988
+  },
+  {
+    "id": 6,
+    "floor": 1,
+    "name": "Viva",
+    "capacity": 89,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 1543
+  },
+  {
+    "id": 7,
+    "floor": 4,
+    "name": "Npath",
+    "capacity": 64,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 2890
+  },
+  {
+    "id": 8,
+    "floor": 3,
+    "name": "Aibox",
+    "capacity": 85,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 3889
+  },
+  {
+    "id": 9,
+    "floor": 3,
+    "name": "Devshare",
+    "capacity": 90,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 2748
+  },
+  {
+    "id": 10,
+    "floor": 1,
+    "name": "Thoughtsphere",
+    "capacity": 72,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 4025
+  },
+  {
+    "id": 11,
+    "floor": 2,
+    "name": "Agivu",
+    "capacity": 73,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 1563
+  },
+  {
+    "id": 12,
+    "floor": 3,
+    "name": "Divanoodle",
+    "capacity": 41,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 1092
+  },
+  {
+    "id": 13,
+    "floor": 5,
+    "name": "Plambee",
+    "capacity": 30,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 1220
+  },
+  {
+    "id": 14,
+    "floor": 1,
+    "name": "Vipe",
+    "capacity": 48,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 1730
+  },
+  {
+    "id": 15,
+    "floor": 5,
+    "name": "Yakitri",
+    "capacity": 35,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 4324
+  },
+  {
+    "id": 16,
+    "floor": 1,
+    "name": "Teklist",
+    "capacity": 72,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 4290
+  },
+  {
+    "id": 17,
+    "floor": 2,
+    "name": "Wikivu",
+    "capacity": 51,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 3317
+  },
+  {
+    "id": 18,
+    "floor": 1,
+    "name": "Zava",
+    "capacity": 59,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 4719
+  },
+  {
+    "id": 19,
+    "floor": 5,
+    "name": "Ailane",
+    "capacity": 52,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 3368
+  },
+  {
+    "id": 20,
+    "floor": 5,
+    "name": "Oba",
+    "capacity": 21,
+    "thumbnail": "http://dummyimage.com/226x167.jpg/dddddd/000000",
+    "price": 3121
+  }
+]
